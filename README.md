@@ -11,7 +11,7 @@ Computer engineering student working on a Fine-tuned LLM project.<br>🤝 I’m 
 -Machine Learning (Scikit-learn)
 -Exploratory Data Analysis & Hypothesis Testing
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeparna-bal-07348432b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shree21850@gmail.com) 
 
 # 💻 Tech Stack:
