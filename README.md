@@ -11,7 +11,7 @@ Computer engineering student working on a Fine-tuned LLM project.<br>🤝 I’m 
 -Machine Learning (Scikit-learn)
 -Exploratory Data Analysis & Hypothesis Testing
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeparna-bal-07348432b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shree21850@gmail.com) 
 
 # 💻 Tech Stack:
@@ -21,18 +21,18 @@ Computer engineering student working on a Fine-tuned LLM project.<br>🤝 I’m 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shree872&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 📂 Featured Projects :
-# 🏆 Employee Attrition Prediction
+## 🏆 Employee Attrition Prediction
 
 Predictive modeling project analyzing employee turnover and providing business recommendations.
 
-# 🤖 Waze Churn Prediction
+## 🤖 Waze Churn Prediction
 
 End-to-end machine learning project for predicting user churn.
 
-# 📊 Waze EDA & Statistical Analysis
+## 📊 Waze EDA & Statistical Analysis
 
 Exploratory data analysis and hypothesis testing on churn dataset.
 
-# 📈 Box Office Tableau Dashboard
+## 📈 Box Office Tableau Dashboard
 
 Interactive dashboard analyzing movie performance trends.
