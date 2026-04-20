@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer engineering student working on a Fine-tuned LLM project.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with building effective Machine Learning models<br>🌱 I’m currently learning LLM<br>💬 Ask me about data analytics or Python<br>⚡ Fun fact I successfully built and deployed a web app called "RecruiteIQ" that is a full-stack machine learning application that automates resume screening and — critically — audits its own decisions for fairness.
+Computer engineering student working on a Fine-tuned LLM project.<br>🤝 I’m looking for help with building effective Machine Learning models<br>🌱 I’m currently learning LLM<br>💬 Ask me about data analytics or Python<br>⚡ Fun fact I successfully built and deployed a web app called "RecruiteIQ" that is a full-stack machine learning application that automates resume screening and — critically — audits its own decisions for fairness.
 
 
 ## 🌐 Socials:
